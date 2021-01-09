@@ -1,0 +1,10 @@
+var language = ["hindi","english", "french","spanish" ];
+
+for(var a of language){
+console.log(a);
+}
+
+var b;
+for(b of language){
+console.log(a);
+}

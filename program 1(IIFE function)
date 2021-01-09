@@ -1,0 +1,6 @@
+(function () {
+var departments=["finance","scholarship", "counselling", "teaching"];
+for (var i = 0; i < departments.length; i++) {
+console.log(departments[i]);
+}
+})();
